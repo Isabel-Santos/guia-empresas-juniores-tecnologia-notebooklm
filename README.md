@@ -14,6 +14,8 @@ O objetivo deste projeto é explorar o **NotebookLM** da Google como ferramenta 
   2. Mapear o portfólio de serviços (desenvolvimento web, apps, consultoria) oferecido pelas EJs brasileiras.
   3. Criar um material de consulta rápida e reutilizável utilizando Inteligência Artificial baseada em fontes confiáveis.
 
+*"Este estudo foi aplicado na prática como pesquisa fundacional para a criação de uma nova Empresa Júnior de Tecnologia"*
+
 ---
 
 ## Curadoria de Fontes
